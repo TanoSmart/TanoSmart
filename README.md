@@ -145,6 +145,14 @@ Me chamo Manassés Tano Madiata, tenho 17 anos e sou natural de Luanda. Concluí
 />
 <img 
     align="left" 
+    alt="PostgreSql" 
+    title="PostgreSql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
