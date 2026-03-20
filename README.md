@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Manassés Madiata
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Manassés Tano Madiata, tenho 17 anos e sou natural de Luanda. Concluí o ensino médio no Instituto Médio Politécnico Nº 3096 Ex:- 4049 “São José”, com o curso técnico de gestão de sistemas informáticos. Atualmente, estou cursando Ciência da Computação na UAN. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no Facebook "[Manassés Tano](https://web.facebook.com/TanoSmart)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Manassés Tano](https://www.instagram.com/tano.smart/)".
+Me chamo Manassés Tano Madiata, tenho 17 anos e sou natural de Luanda. Concluí o ensino médio no Instituto Médio Politécnico Nº 3096 Ex:- 4049 “São José”, com o curso técnico de gestão de sistemas informáticos. Atualmente, pretendo cursar Ciência da Computação na UAN. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no Facebook "[Manassés Tano](https://web.facebook.com/TanoSmart)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Manassés Tano](https://www.instagram.com/tano.smart/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@tano6mart?sub_confirmation=1">
@@ -139,14 +139,15 @@ Me chamo Manassés Tano Madiata, tenho 17 anos e sou natural de Luanda. Concluí
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=manassestano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=tanosmart&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=manassestano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanosmart&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
